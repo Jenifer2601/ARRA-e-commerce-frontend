@@ -1,3 +1,3 @@
-const backendApi = "http://localhost:4000";
+const backendApi = "https://arra-e-commerce.onrender.com";
 
 export default backendApi;
