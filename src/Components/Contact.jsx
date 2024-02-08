@@ -10,7 +10,7 @@ function Contact() {
       </h1>
       <form
         className="contact-form"
-        action="https://formspree.io/f/mleyzorw"
+        action="https://formspree.io/f/meqyankw"
         method="post"
       >
         <div className="form-group">
